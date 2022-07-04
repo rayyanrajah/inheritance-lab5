@@ -5,7 +5,7 @@ This problem required the implementation of the following functions:
 - create_family
 - free_family
 
-NOTE: Copying this data and using it for your submission will breach the academic honesty https://cs50.harvard.edu/x/2020/honesty/ policy of CS50.
+NOTE: Copying this data and using it for your submission will breach the academic honesty https://cs50.harvard.edu/x/2022/honesty/ policy of CS50.
 
 This is my solution of the CS50 inheritance lab, using C. https://cs50.harvard.edu/x/2022/labs/5/ This problem set required implemnetation of a program which spell-checks a file (from a list of words, i.e. the dictionaries provided by CS50).
 
